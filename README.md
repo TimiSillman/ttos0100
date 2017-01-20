@@ -14,3 +14,4 @@ orem ipsum dolor sit amet, consectetur adipiscing elit. In feugiat nulla sit ame
 [wiki sivut](https://fi.wikipedia.org/wiki/Wikipedia)
 
 :thinking:
+:thinking:
